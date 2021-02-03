@@ -1,5 +1,6 @@
-# ComunicacionJerarquia
+# Comunicacion Jerarquica Componentes
 
+Proyecto educacional en el que vemos la comunicación entre componentes padres e hijos mediante @Input y @Output.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
 ## Development server
